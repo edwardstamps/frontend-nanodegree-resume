@@ -15,7 +15,7 @@
 
 h1 {
   font-size: 40px;
-  color: #F5A623;
+  color: #D80000 ;
   line-height: 48px;
   display: inline;
 }
@@ -87,7 +87,7 @@ a {
 }
 
 #skillsH3 {
-  color: #F5AE23;
+  color: #D80000 ;
   display: none;
 }
 
@@ -96,7 +96,7 @@ a {
 }
 
 .orange-text {
-  color: #F5AE23;
+  color: #D80000 ;
 }
 
 .white-text {
@@ -111,12 +111,14 @@ a {
 }
 
 .dark-gray {
-  background-color: #4A4A4A;
+  background-color: #282828 ;
 }
 
 /* TODO: Replace with image later */
 #header {
-  background-color: #484848;
+  background-image: url("http://upload.wikimedia.org/wikipedia/commons/a/aa/Anonymous,_after_Albert_Bierstadt_-_The_Rocky_Mountains,_Lander's_Peak.jpg");
+  background-size: 100%;
+
 }
 
 .flex-box {
